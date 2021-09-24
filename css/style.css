@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+header .col-1{
+    background-color:greenyellow;
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    
+    
+}
+header .col-2{
+    background-color:green;
+    width: 66.67%;
+    height: 300px;
+    float:right ;
+}
+
+main .col-3{
+    background-color:mediumorchid;
+    height: 300px;
+    width: 33.33%;
+    float: left;
+}
+
+main .col-4{
+    background-color: rebeccapurple;
+    height: 300px;
+    width: 33.33%;
+    float: left;
+}
+main .col-5{
+    background-color: purple;
+    height: 300px;
+    width: 33.33%;
+    float:right; 
+}
+footer .col-6{
+    background-color:darkgoldenrod;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+footer .col-7{
+    background-color:orangered;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
